@@ -1,0 +1,67 @@
+.Footer {
+	p{
+		color: white;
+	}
+	font-size: 11px;
+	background: $c-green;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.opening{
+	td{
+	width: 78px;
+}
+	ul{
+		margin-top:0px;
+		width: 178px;
+	}
+}
+
+.links{
+	a{
+		text-decoration: none;
+		color:white;
+	}
+}
+
+// RESPONSIVE FOOTER
+.Footer-inner .widget {
+	@include span-columns(4);
+	@media screen and(max-width: 980px){
+		@include span-columns(12);
+	}
+}
+
+.Footer-inner {
+}
+
+//style the widgets
+.Footer-inner .widget {
+
+}
+
+.Socket{ 
+	text-align: center;
+}
+
+.static-hoog-knop img {
+width: 25px;
+margin-top: 7px;
+}
+
+.static-hoog-knop {
+position: fixed;
+bottom: 30px;
+right: 10px;
+z-index: 1;
+border: 0;
+height: 41px;
+border-radius: 6px;
+background: $c-orange;
+padding: 8px;
+padding-bottom: 11px;
+margin-bottom: 10px;
+color: #fff;
+}

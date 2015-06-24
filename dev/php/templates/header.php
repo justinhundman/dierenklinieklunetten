@@ -85,6 +85,7 @@
                 </a>
             </div>
             <div class="u-gridCol6 headerwelkom">
+
                 <div class="social">
                     <a href="https://www.facebook.com/dierenkliniek.lunetten?fref=ts" target="_blank">
                         <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/facebook.png"> 
@@ -95,21 +96,27 @@
                     <a href="/app">
                         <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/google.png"> 
                     </a>
+                    <div class="banner">
+                    <a href="http://lp.proteqdierenzorg.nl/dierenverzekering_zakelijk/?dapid=1641102&utm_campaign=harm&utm_medium=algemeen_180&bannerid=850&utm_source=1641102" target=_blank ><img src="http://lp.proteqdierenzorg.nl/banners/pdz/180x150.jpg" height="100" width="120" alt="algemeen" border=0></a>
+                    </div>
                 </div>   
-                    <div class="welkom">
-                        <h3>Welkom bij Dierenklinkiek Lunetten!</h3>
+                    <div class="welkom"> 
+                        <div class="Showmobile">
+                 <a href="http://www.docbooff.nl/?gclid=CNj67t3sgcQCFceWtAodpl0AZQ" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/Docbooff.png"></a> 
+                 </div>
+                        <h3>Welkom bij Dierenkliniek Lunetten!</h3>
                     </div>
             </div>
             <div class="u-gridCol3 headertel">
                 <div>
                     <img class="leerbedrijf" src="<?php echo get_stylesheet_directory_uri(); ?>/img/leerbedrijf.png">
-                    <h3><img class="phoneicon" src="<?php echo get_stylesheet_directory_uri(); ?>/img/phone.png">
-                    030 2898939</h3>
+                    <a href="tel:0302898939"><h3><img class="phoneicon" src="<?php echo get_stylesheet_directory_uri(); ?>/img/phone.png">
+                    030 2898939</h3></a>
                 </div>
                 <p>In geval van spoed bel:<br>
                 Tijdens openingstijden: <b>030-2898939</b><br>
                 Buiten openingstijden: <b>0900-2223000</b><br>
-                <a href="#">Wat is een spoedgeval?</a></p>
+                <a href="/spoed">Wat is een spoedgeval?</a></p>
             </div>
         </div>
     </div>

@@ -8,6 +8,7 @@
 
 
 .dieren{
+	margin-top: -15px;
 	p{
 		margin-top: 0px;
 		text-align: center;
@@ -44,6 +45,10 @@
 }
 
 .size-medium{
+	margin-right: 15px;
+}
+
+.size-full{
 	margin-right: 15px;
 }
 
@@ -99,6 +104,36 @@
     	text-align: center;
     	padding: 11px;
     }
+}
+
+.form-allowed-tags{
+	display: none;
+}
+
+#submit{
+	width: 30%;
+	  display: block;
+	  text-align: center;
+	  color: white;
+	  float: left;
+	  background: #f38023;
+	  padding: 2%;
+	  border-radius: 5px;
+	  border: none;
+	  margin-bottom: 20px;
+}
+
+label[for=comment]
+{
+    display: none;
+}
+
+#url{
+	  margin-left: 25px;
+}
+
+#author{
+	margin-left:2px;
 }
 
 .next{
@@ -201,6 +236,12 @@ margin-left: 4px;
 	.Navigation-listItem ul {
 	  position: absolute !important;
 	}
+	.Showmobile{
+  	display: block !important;
+	}
+	.headerwelkom h3 {
+	width: 500px !important;
+	}
 }
 
 @media all and (max-width: 1190px) {  
@@ -217,41 +258,76 @@ margin-left: 4px;
 	}
 }
 
-@media all and (max-width: 321px) {  
- .welkom h3{
- 	display: none;
- }
-}
-
 @media all and (max-width: 414px){
 .footerres {
   width: 75.70196% !important;
 }
+ .welkom h3{
+ 	width: 300px !important;
+ }
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 1005px) {
 	.next {
 			margin-top: 21px !important;
 			}
 	.dierenplaatje{
 		display: none !important;
 	}
-	.dieren{
-		display: none !important;
-	}
 	.content-box-herdenk {
 	  background: #e8e8e8 !important;
-	  height: 73px;
+	  height: 108px;
 	  width: 100%;
 	  border-radius: 5px;
 }
 .content-box-spaarkaart {
 	  background: #e8e8e8 !important;
-	  height: 73px;
+	  height: 108px;
 	  width: 100%;
 	  border-radius: 5px;
 }
 .next{
 	display: none !important;
 }
+
+ .trans-header-text{
+ 	background: none !important; 
+ }
 }
+
+@media all and (max-width: 768px) {
+	.dieren{
+		display: none !important;
+	}
+	.welkom h3{
+ 	font-size: 20px !important;
+ }
+}
+
+@media all and (max-width: 640px) {
+		.content-box-herdenk {
+	  background: #e8e8e8 !important;
+	  height: 60px;
+	  width: 100%;
+	  border-radius: 5px;
+}
+.content-box-spaarkaart {
+	  background: #e8e8e8 !important;
+	  height: 60px;
+	  width: 100%;
+	  border-radius: 5px;	  
+}
+.laatstecontent{
+	margin-bottom: 20px;
+}
+ .welkom h3{
+ 	width: 300px !important;
+ }
+}
+
+.banner{
+	margin-bottom:  -70px;
+	float: right;
+	margin-left: 3px;
+}
+

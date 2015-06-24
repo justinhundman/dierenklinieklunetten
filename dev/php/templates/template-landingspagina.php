@@ -1,10 +1,10 @@
 <?php
 /*
-Template Name: Homepage
+Template Name: Landingspagina
 */
 ?>
 
-<?php get_header(); ?>
+<?php get_header(); ?> 
 	<div class="u-gridContainer">
 		<div class="u-gridRow">
 			<div class="u-gridCol11">
@@ -32,10 +32,10 @@ Template Name: Homepage
 															<?php
 														}
 													}
-												?>
+												?> 
 				</div>
 			</div>
-			<div class="u-gridCol1 dieren">
+			<div class="u-gridCol1 dieren">  
                 <a href="/cavias">
                         <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/cavias.png"> 
                         <p>Cavias</p>
@@ -101,10 +101,10 @@ Template Name: Homepage
                                         </div>
 					                        <img class="next" src="<?php echo get_stylesheet_directory_uri(); ?>/img/next.png"> 
 					                    </a>  
-                                    </div>
+                                    </div> 
                                 </div>
                                  <div class="u-gridCol2">
-                                 	<div class="content-box-spaarkaart laatstecontent">
+                                 	<div class="content-box-spaarkaart">
                                         <a href="/nieuwsbrief">
                                         <div class="orange-header-text">
                                             <p>Nieuwsbrief</p>

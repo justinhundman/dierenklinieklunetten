@@ -87,7 +87,8 @@ Template Name: Katten
 												    <span><a name="4" href="#4"><h4>>&nbsp;Steriliseren poes</h4></a></span>
 												</div>
 												<div class="accContent salaris">
-												    <p>	een kater kan vanaf de leeftijd van 4 maanden gecastreerd worden. Vroeger dachten we dat voor een castratie tenminste gewacht moest worden tot hij 6 maanden oud was. Inmiddels heeft onderzoek uitgewezen dat dit niet waar is. De narcosemiddelen die tegenwoordig worden gebruikt zijn veiliger dan oude middelen. Vaak herstellen de katers juist sneller als ze jong gecastreerd worden. Van belang is dat u niet wacht tot hij zo oud is dat hij in huis gaat sproeien want dan loopt u de kans dat de castratie niet meer helpt tegen onzindelijkheid. Is een kater inmiddels geslachtsrijp, dan kan hij na de castratie nog zeker 3 tot 6 weken een poes succesvol dekken. Dit is van belang als u een poes in huis heeft die niet gesteriliseerd is.
+												    <p>	vanaf de leeftijd van 6 maanden moet u er rekening mee houden dat uw poes krols en dus zwanger kan worden. We steriliseren poezen vanaf de leeftijd van 5 maanden. Hiervoor worden ze
+														's middags tussen 11.00 en 13:00 uur opgenomen. U kunt haar dan tegen het einde van de middag of 's avonds weer ophalen. Ze zal dan nog een beetje suf zijn maar de volgende ochtend voelt ze zich meestal weer redelijk goed. Na 10 dagen worden de hechtingen verwijderd.
 													</p>
 												</div>
 												<div class="accordion">

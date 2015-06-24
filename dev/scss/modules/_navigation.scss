@@ -38,7 +38,7 @@
 }
 
 .Navigation-link.is-active {
-  text-decoration: underline;
+  color: #6b696a; 
 }
 
 
@@ -57,10 +57,10 @@
 
 .Navigation-listItem {
   display: block;
-  margin:0 1.34rem;
+  margin:0 1.3rem;
   float: left;
   &:first-of-type {
-    margin-left: 0;
+    margin-left: 0; 
   }
   &:last-of-type {
     margin-right: 0;
@@ -92,7 +92,7 @@
 .Navigation-list--dropdown{
    width: 100%;
   a{
-    color: $c-orange; 
+    color: white; 
     font-size: 14px; 
   }
    a:hover {

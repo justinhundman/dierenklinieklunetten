@@ -11,15 +11,15 @@
 					<p>CONTACT</p>
 					<ul>
 						<li>Tijdens openingstijden:</li>
-						<li><b>030 - 289 89 39</b></li>
+						<a href="tel:0302898939"><li><b>030 - 289 89 39</b></li></a>
 						<li>Buiten openingstijden (spoed):</li>
-						<li><b>0900 - 222 3000</b></li>
-						<li><b>info@dierenklinieklunetten.nl</b></li>
+						<a href="tel:09002223000"><li><b>0900 - 222 3000</b></li></a>
+						<a href="info@dierenklinieklunetten.nl" target="_top"><li><b>info@dierenklinieklunetten.nl</b></li></a>
 					</ul>
 				</div>
 				<div class="u-gridCol2 opening footerres"> 
 					<p>OPENINGSTIJDEN</p>
-							<table class="opening">
+							<table class="opening"> 
 							    <tr>
 							        <td width="100%">Maandag</td>
 							        <td>10:00 - 19:00</td>
@@ -65,13 +65,14 @@
 					</ul>
 				</div>
 				<div class="u-gridCol2 links footerres">
-					<p>SITEMAP</p>
+					<p>SITEMAP</p> 
+					<?php dynamic_sidebar( 'footer-widgets' ); ?>					
 				</div>
-			</div>
+			</div> 
 		</div>  
 	</div>  
  
- 
+    
 	<div class="Socket"> 
 		<div class="u-gridContainer">
 			<!-- Copyright info -->

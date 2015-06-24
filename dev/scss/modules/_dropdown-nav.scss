@@ -10,22 +10,31 @@ ul.Navigation-list--dropdown {
     height: auto;
     position: absolute;
     font-size: 15px;
-    width: 100%;
     line-height: 40px;
     z-index: 9999;
     margin-top: 27px;
+    background: none;
     li:hover {
       color: #6b696a; 
   } 
 }
 
 ul.Navigation-list--dropdown li.Navigation-listItem {
-    display: block;
-    padding: 0px 2px;
-    margin: 0px auto;
-    border: 0px none;
+display: block;
+  padding: 0px 2px;
+  margin: 0px auto;
+  border: 0px none;
+  float: none;
+  text-align: left;
+  color: #ffffff;
+  padding-left: 10px;
+  margin-top: 3px;
+  width: 277px;
+  background: $c-orange
+  ;
 }
 
 .Navigation-list.is-hidden {
 	display: none;
 }
+

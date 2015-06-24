@@ -23,7 +23,7 @@
   border-radius: 7px;
   margin-top: 7px;	
   background-color: transparent;
-  border: 3px solid white;
+  border: 2px solid $c-green;
   cursor: pointer;
   float: right;    
 	&:hover {
@@ -137,7 +137,7 @@
 		float: none;
 		line-height: 30px;
 		border-left: 0 solid;
-		width: 100%;
+		width: 100% !important ;
 		margin-right: 0px;
 		text-decoration-color: white;
 		background-color: $c-orange !important;
